@@ -1,4 +1,5 @@
 ### Hi there 👋
+![Diors.Po's github stats](https://github-readme-stats.vercel.app/api?username=Diors-Po&show_icons=true&theme=radical) 
 
 <!--
 **Diors-Po/Diors-Po** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
